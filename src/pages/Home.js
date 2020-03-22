@@ -1,7 +1,6 @@
 import React from 'react';
+import { HomeContainer } from 'containers';
 
 export const Home = () => {
-  return <div>Home</div>;
+  return <HomeContainer />;
 };
-
-// export default Home;
